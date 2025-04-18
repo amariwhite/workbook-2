@@ -23,7 +23,7 @@ public class CellPhoneApplication {
         display(owner);
 
         getUserImput();
-        
+
 
 //        String doorKnocking = "Enter your name";
 //        display(doorKnocking);

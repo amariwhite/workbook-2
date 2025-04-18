@@ -49,4 +49,8 @@ public class AddressBuilder {
         System.out.println("The Shipping Address is: \n" + shippingAddress);
         //System.out.println(billingAddress);
     }
+
+    public static void display(String message) {
+        display(message);
+    }
 }
